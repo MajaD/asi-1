@@ -1,7 +1,7 @@
 ### Nazwa Zespołu – Łukasz Mielewczyk
 
 1. Zaliczenie:
- - [ ] [Kostnica](zaliczenie)
+ - [ ] [Kostnica](https://github.com/romety2/asi_zal)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
