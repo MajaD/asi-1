@@ -10,7 +10,7 @@
 
  Opis: Aplikacja dla kostnicy przechowujca dane o zmarych osobach, umożliwa dodawanie, modyfikacje, oraz usuwanie danych
  
-1. Egzamin:
+2. Egzamin:
  - [ ] [nazwa aplikacji](/)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
  
