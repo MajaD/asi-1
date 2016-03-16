@@ -1,6 +1,6 @@
 ### Nazwa Zespołu – Łukasz Mielewczyk
 
-1. Zaliczenie:
+Zaliczenie:
  - [x] [Kostnica](https://github.com/romety2/asi_zal)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
  
@@ -10,7 +10,7 @@
 
  Opis: Aplikacja dla kostnicy przechowujca dane o zmarych osobach, umożliwa dodawanie, modyfikacje, oraz usuwanie danych
  
-2. Egzamin:
+Egzamin:
  - [ ] [nazwa aplikacji](/)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
  
