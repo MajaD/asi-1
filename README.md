@@ -1,13 +1,25 @@
 ### Nazwa Zespołu – Łukasz Mielewczyk
 
 1. Zaliczenie:
- - [ ] [Kostnica](https://github.com/romety2/asi_zal)
+ - [x] [Kostnica](https://github.com/romety2/asi_zal)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
  
-2. Egzamin:
+|Wersja Ruby|Wersja Rails|Baza danych|
+|---|---|---|
+|2.3.0|5.0.0| PostgreSQL|
+
+ Opis: Aplikacja dla kostnicy przechowujca dane o zmarych osobach, umożliwa dodawanie, modyfikacje, oraz usuwanie danych
+ 
+1. Egzamin:
  - [ ] [nazwa aplikacji](/)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+ 
+|Wersja Ruby|Wersja Rails|Baza danych|
+|---|---|---|
+|2.3.0|5.0.0| PostgreSQL|
 
-* wersja Ruby: 2.3.0
-* wersja Rails: 5.0.0
-* baza danych: PostgreSQL
+  Opis: 
+
+
+
+
