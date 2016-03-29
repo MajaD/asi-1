@@ -2,7 +2,7 @@
 
 1. Zaliczenie:
  - [x] [Kostnica](https://github.com/romety2/asi_zal)
- - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+ - [x] [Strona](http://sigma.inf.ug.edu.pl:5678)
  
 1. Egzamin:
  - [ ] [nazwa aplikacji](/)
