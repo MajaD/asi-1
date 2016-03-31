@@ -2,7 +2,7 @@
 
 1. Zaliczenie:
  - [x] [Kostnica](https://github.com/romety2/asi_zal)
- - [x] [Strona](http://sigma.inf.ug.edu.pl:5678)
+ - [x] [Strona](https://morgue.herokuapp.com/)
  
 1. Egzamin:
  - [ ] [nazwa aplikacji](/)
