@@ -5,7 +5,7 @@
  - [x] [Strona](https://morgue.herokuapp.com/)
  
 1. Egzamin:
- - [ ] [nazwa aplikacji](/)
+ - [ ] [Blog](/https://github.com/romety2/asi_egz)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
  
 
